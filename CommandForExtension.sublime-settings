@@ -1,0 +1,12 @@
+{
+	"commands": [{
+		"command": "html_beautify",
+		"extension": [".tpl", ".html"]
+	}, {
+		"command": "css_comb",
+		"extension": [".css"]
+	}, {
+		"command": "code_formatter",
+		"extension": []
+	}, ]
+}
