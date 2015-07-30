@@ -4,6 +4,7 @@ __Sublime text plugin to execute any commands by file extension__
 
 
 ```json config
+
 	{
 		"commands": [{
 			"command": "html_beautify",
@@ -16,6 +17,7 @@ __Sublime text plugin to execute any commands by file extension__
 			"extension": []
 		}, ]
 	}
+
 if extension array is empty, command executed for all files
 
 
