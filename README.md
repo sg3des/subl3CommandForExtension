@@ -3,7 +3,7 @@
 __Sublime text plugin to execute any commands by file extension__
 
 
-```json config
+###json config
 
 	{
 		"commands": [{
@@ -22,6 +22,6 @@ if extension array is empty, command executed for all files
 
 
 
-```key bind
-{"keys": ["alt+f"], "command": "command_for_extension"},
+###key bind
+	{"keys": ["alt+f"], "command": "command_for_extension"},
 
